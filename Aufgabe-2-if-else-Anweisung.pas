@@ -1,5 +1,5 @@
 program project1;
-//das Programm behandelt if else Bedingungen
+//das Programm fragt eine Zahl ab und wenn die Zahl groesser gleich 100 ist wird der User beglueckwunscht und wenn nicht, dann beleidigt
 
 var number : integer;
 
