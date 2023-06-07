@@ -1,4 +1,5 @@
 program project1;
+//Das Programm fragt den Vornamen und den Nachnamen ab, um dann den User nach den Kreterien zu gruessen
 
 var Vorname : String;
 var Nachname : String;
