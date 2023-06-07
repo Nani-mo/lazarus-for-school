@@ -1,4 +1,5 @@
 program project1;
+//das Programm fragt eine Zahl ab und diese Zahl 5 ist wird der Dude beglueckwuenscht
 
 var number: Integer;
 
